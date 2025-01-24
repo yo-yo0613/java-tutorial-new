@@ -1,7 +1,7 @@
 # Java Tutorial 
 ***
 > This is the Java tutorial for the beginninger of the Java programming language.
-## Base Java Csode
+## Base Java Code
 ***
 >
 <pre><code>public class Main {
